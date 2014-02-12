@@ -9,6 +9,7 @@ Use appropriate selector and maximum allowable text length to call ellipsisJs fu
 Example
 -------
 ellipsisJs('.main', 75);
+
 ellipsisJs('#profile_link a', 75);
 
 
